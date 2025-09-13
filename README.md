@@ -30,3 +30,11 @@ Do **not** use this code to monitor others without explicit permission.
 - Install dependencies:
 ```bash
 pip install pynput
+python main.py
+```
+## 📂 Project Structure
+📦 Keylogger-Project
+ ┣ 📜 main.py        # Keylogger source code
+ ┣ 📜 log.txt        # Recorded keystrokes (auto-generated)
+ ┗ 📜 README.md      # Documentation
+
