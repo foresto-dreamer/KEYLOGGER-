@@ -2,8 +2,8 @@
 # ------------------
 # Simple keylogger for educational/demo use only.
 # DO NOT use this on anyone else's machine without explicit permission.
-# Author: (your name)
-# Purpose: record keystrokes to a local file (log.txt) for Task-04 assignment.
+# Author: (Manish Dey)
+# Purpose: record keystrokes to a local file (log.txt).
 
 from pynput.keyboard import Listener, Key
 import time
